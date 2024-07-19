@@ -11,3 +11,8 @@ Integradora-HOPE/<br>
 │ └── HTML <br>
 │ └── JS <br>
 └── Documentation <br>
+
+| Responsable | Puesto | Contacto | Observaciones |
+|-------------|--------|----------|---------------|
+|Marco Antonio Ramirez Marquez|@MTI-Marco|Líder de desarrollo FrontEnd|✅ Revisado y aprobado.|
+|Guadalupe Idai Vargas Galindo|@IdaiVG|Desarrollador FrontEnd|❌Sin revisión..|
