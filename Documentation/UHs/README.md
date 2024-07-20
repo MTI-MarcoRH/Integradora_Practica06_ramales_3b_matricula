@@ -37,4 +37,4 @@ En este apartado encontras un ejemplo de historias de usuario, para crear las **
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de desarrollo de  FrontEnd|😐 No ha revisado.|
-|Marcos Jesús Ríos Durán|[@Marcos-Jesus-Rios-Duran](https://github.com/Marcos-Jesus-Rios-Duran)|Desarrollador de Historias de usuarios (**UHs**).|✅ Revisado y aprobado.|  
+|Marcos Jesús Ríos Durán|[@Marcos-Jesus-Rios-Duran](https://github.com/Marcos-Jesus-Rios-Duran)|Desarrollador web responsable de la creación y documentación de Historias de Usuarios (UHs).|✅ Revisado y aprobado.|  
