@@ -19,5 +19,5 @@ Los Requisitos No Funcionales (NFRs) se utilizan para definir cómo debe comport
 
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|-------|---|-------------|
-|MTI.Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Documentador|❌No ha Revisado|
+|MTI.Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de Documentacion|❌No ha Revisado|
 |Jonathan Baldemar Ramirez Reyes|[@jon-ram](https://github.com/Jon-ram)|Documentador|✅Revisado|
