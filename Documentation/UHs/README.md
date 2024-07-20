@@ -8,28 +8,29 @@ En este apartado encontras un ejemplo de historias de usuario, para crear las **
 2. mejorar el motivo de la construcción y el valor que aporta.
 
 ## Estructura de archivos
-Integradora-practica06
-├── BackEnd
-├── Database
-├── Documentation
-│   ├── BRs
-│   ├── FRs
-│   ├── GUI
-│   │   ├── Mockups
-│   │   ├── Prototype
-│   │   ├── SiteMap
-│   │   ├── Sketches
-│   │   ├── Wireframes
-│   ├── Instalation Manual
-│   ├── NFRs
-│   ├── UHs
-│   ├── User Manual
-├── FrontEnd
-│   ├── JS
-│   ├── HTML
-│   ├── CSS
-│   ├── Assets
-└── README.md
+
+>Integradora-practica06 <br>
+>├── BackEnd <br>
+>├── Database <br>
+>├── Documentation <br>
+>│ ├── BRs <br>
+>│ ├── FRs <br>
+>│ ├── GUI <br>
+>│ │ ├── Mockups <br>
+>│ │ ├── Prototype  <br>
+>│ │ ├── SiteMap <br>
+>│ │ ├── Sketches <br>
+>│ │ ├── Wireframes <br>
+>│ ├── Instalation Manual <br>
+>│ ├── NFRs  <br>
+>│ ├── UHs  <br>
+>│ ├── User Manual  <br>
+>├── FrontEnd   <br>
+>│ ├── JS  <br>
+>│ ├── HTML  <br>
+>│ ├── CSS  <br>
+>│ ├── Assets  <br>
+>└── README.md  <br>
 
 ## Equipo de Desarrollo
 
