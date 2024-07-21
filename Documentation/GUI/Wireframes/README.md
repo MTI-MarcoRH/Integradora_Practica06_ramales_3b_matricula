@@ -2,8 +2,6 @@
 
 En la carpeta de wireframes se almacena las presentaciones  visuales  de la estructura y diseño de las interfaces de la aplicacion web del proyecto. Se generan diferentes versiones sobre el diseño, se documentan las decisiones que se tomen, con el objetivo de establecer una base para el proyecto.
 
-# Sketches
-
 
 ## Estructura de Archivos
 
