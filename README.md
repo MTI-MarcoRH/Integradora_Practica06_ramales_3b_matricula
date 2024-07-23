@@ -16,13 +16,14 @@
 - Confirmar los Cambios (Commit)
 - Enviarlos al Repositorio en la Nube (Push)
 
-**- Ejercicio B: (10 Firmas)** Repositorio del Equipo Tl (Contacta al Líder del Equipo)
+**- Ejercicio B: (10 Firmas)** Repositorio del Equipo Tl (Contacta al Líder del Equipo) 
+
 *Actividades:*
 - Clonación del Repositorio
 - Configuración Local de Git (User/Email) 
 - Creación del Ramal (Branch)
 - Uso del Ramal (Checkout)
-- Cambios solicitados (Carpetas y Subcarpetas* / Readmes)           *En caso de ser necesario
+- Cambios solicitados (Carpetas y Subcarpetas* / Readmes)           **En caso de ser necesario*
 - Confirmar los Cambios (Commit)
 -  Enviarlos al Repositorio en la Nube (Push)
 - Una vez terminado avisa al Lider del Proyecto
