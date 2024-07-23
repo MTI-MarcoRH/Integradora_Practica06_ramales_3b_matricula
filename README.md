@@ -36,7 +36,7 @@
 |Matrícula|Nombre del Estudiante| Ejercio A |Ejercicio B|
 |---|---|---|---|
 |220773|Artiaga Quiroga Ailton| ❌ No entregada | ❌ No entregada|
-|220773|Artiaga Quiroga Ailton|  |✅ 8/10| ❌ 0/10 - No entregada|
+|220773|Artiaga Quiroga Ailton| ✅ 8/10| ❌ 0/10 - No entregada|
 |230693|Balderas Gomez Dulce|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230484|Becerra Gonzalez Edgar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230496|Cabrera Velázquez Edgar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
