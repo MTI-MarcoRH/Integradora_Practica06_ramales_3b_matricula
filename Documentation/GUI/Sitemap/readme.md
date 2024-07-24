@@ -1,4 +1,4 @@
-# MapSite  ![FIGMA](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+# SiteMap ![FIGMA](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 En esta carpeta de mapas de sitio se almacenan la representación visual del sitio web, la cual ayuda a los usuarios a localizar los contenidos de forma ordenada y sencilla.
 
