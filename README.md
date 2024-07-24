@@ -39,7 +39,7 @@
 |230693|Balderas Gomez Dulce|Backend - PHP| 🤨 6/10| ✅ 8/10 | 🤨 6/10 |
 |230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** */ |
 |230496|Cabrera Velázquez Edgar|Databases - Backups|😴 0/10|😴 0/10 | No asistió |
-|230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary| 0/10| 0/10 | No asistió |
+|230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
 |230315|Fosado Escudero Carlos Isaac|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
 |230598|Galindo Gonzalez Lorena Citlalli|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230297|González Peralta Esther|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
@@ -55,7 +55,7 @@
 |230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230410|Ramírez Reyes Jonathan Baldemar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230733|Ríos Durán Marcos Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
-|230190|Romero Martínez Yáred Amaury|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|😴 0/10|😴 0/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230374|Tecorralco Martinez Diego Salvador|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230574|Vargas Galindo Guadalupe Idai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
