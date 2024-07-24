@@ -55,7 +55,7 @@
 |230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230410|Ramírez Reyes Jonathan Baldemar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230733|Ríos Durán Marcos Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
-|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|😴 0/10|😴 0/10 | No asistió |
+|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|😴 0/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230374|Tecorralco Martinez Diego Salvador|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230574|Vargas Galindo Guadalupe Idai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	

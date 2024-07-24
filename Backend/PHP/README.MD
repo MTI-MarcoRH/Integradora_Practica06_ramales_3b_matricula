@@ -2,8 +2,8 @@
 
 En esta sección se encontrarán todos los archivos de código fuente para cada una de las páginas interactivas (dinámicas) de la aplicación web.
 
-## Estructura de archivos
 
+## Estructura de archivos
 
 >Integradora-Asesoria <br>
 >| - Backend <br>
@@ -13,9 +13,9 @@ En esta sección se encontrarán todos los archivos de código fuente para cada 
 >| - Documentation <br>
 >| - Frontend 
 
-## Equipo de Desarrollo
 
-   |Integrante|Contacto|Rol|Observaciones|
-   |----------|--------|---|-------------|
-   |M.T.I. Marco Antonio Ramirez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de Desarrollo de PHP|✅ Corregido, muchos errores previos |
-   |Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Desarrolladora de PHP|✅ Revisado y aprobado|
+## Equipo de Desarrollo
+|Integrante|Contacto|Rol|Observaciones|
+|----------|--------|---|-------------|
+|M.T.I. Marco Antonio Ramirez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de Desarrollo de PHP|✅ Corregido, muchos errores previos |
+|Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Desarrolladora de PHP|✅ Revisado y aprobado|

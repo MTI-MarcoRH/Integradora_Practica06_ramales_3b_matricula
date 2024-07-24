@@ -4,6 +4,7 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 
 *Un manual de usuario, también llamado guía de usuario, es un documento de comunicación técnica destinado a dar asistencia a las personas que utilizan un sistema en particular.*
 
+
 ## Estructura de Archivos
 
 >|- BackEnd <br>
@@ -17,6 +18,7 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 >&nbsp;&nbsp;| - UHs<br>
 >&nbsp;&nbsp;**| - User_Manual**<br>
 >|- FronteEnd<br>
+
 
 ## Equipo de Desarrollo
 
