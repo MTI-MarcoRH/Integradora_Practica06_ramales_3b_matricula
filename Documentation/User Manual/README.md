@@ -1,4 +1,4 @@
-# User Manual
+# User Manual ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 En este folder encontraremos los archivos que serviran de guía al usuario para poder usuar adecuadamente la aplicación de manera intuitiva.
 
@@ -6,22 +6,21 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 
 ## Estructura de Archivos
 
-
->Integradora -Oratio<br>
 >|- BackEnd <br>
 >|- DataBase<br>
 >|**- Documentation**<br>
->&nbsp;&nbsp;| -BRs<br>
->&nbsp;&nbsp;| -FRs<br>
->&nbsp;&nbsp;| -GUI<br>
->&nbsp;&nbsp;| -NFRs<br>
->&nbsp;&nbsp;| -UHs<br>
->&nbsp;&nbsp;| **-User Manual**<br>
+>&nbsp;&nbsp;| - BRs<br>
+>&nbsp;&nbsp;| - FRs<br>
+>&nbsp;&nbsp;| - GUI<br>
+>&nbsp;&nbsp;| - Installation_Manual<br>
+>&nbsp;&nbsp;| - NFRs<br>
+>&nbsp;&nbsp;| - UHs<br>
+>&nbsp;&nbsp;**| - User_Manual**<br>
 >|- FronteEnd<br>
 
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
-|MTI.Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de desarrollo de FrontEnd|No revisado 🟠|
-|Yáred Amaury Romero Martínez|[@Yared-Amaury-Romero](https://github.com/AmauryRomero1285)|Desarrollador del *User Manual*|Revisado y aprobado. ✔|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado con cambios mínimos.|
+|Yáred Amaury Romero Martínez|[@Yared-Amaury-Romero](https://github.com/AmauryRomero1285)|Documentador|✅Revisado y aprobado. ✔|
