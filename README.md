@@ -33,14 +33,13 @@
 
 ## Firmas de la Actividad
 
-|Matrícula|Nombre del Estudiante| Ejercio A |Ejercicio B|
-|---|---|---|---|
-|220773|Artiaga Quiroga Ailton| ❌ No entregada | ❌ No entregada|
-|220773|Artiaga Quiroga Ailton| ✅ 8/10| ❌ 0/10 - No entregada|
-|230693|Balderas Gomez Dulce|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230484|Becerra Gonzalez Edgar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230496|Cabrera Velázquez Edgar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230413|Flores Campos Osvaldo Abishai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
+|Matrícula|Nombre del Estudiante|Carpeta Asignada|Ejercio A |Ejercicio B|Asesoría|
+|---|---|---|---|---|---|
+|220773|Artiaga Quiroga Ailton|Backend - PHP_Connection| ✅ 8/10| ❌ 0/10 - No entregada| No asistió|
+|230693|Balderas Gomez Dulce|Backend - PHP| 🤨 6/10| ✅ 8/10 | 🤨 6/10 |
+|230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** */ |
+|230496|Cabrera Velázquez Edgar|Databases - Backups|😴 0/10|😴 0/10 | No asistió |
+|230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary| 0/10| 0/10 | No asistió |
 |230315|Fosado Escudero Carlos Isaac|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
 |230598|Galindo Gonzalez Lorena Citlalli|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230297|González Peralta Esther|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
