@@ -5,7 +5,7 @@
 
 **Ejercicios:**
 
-**- Ejercicio A: (10 Firmas)** Repositorio Grupal (https://github.com/MTI-MarcoRH/Integradora_Practica06_ramales_3b_matricula.git)
+**Ejercicio A: (10 Firmas)** Repositorio Grupal (https://github.com/MTI-MarcoRH/Integradora_Practica06_ramales_3b_matricula.git)
 
 *Actividades*:
 - Clonación del Repositorio
@@ -16,7 +16,7 @@
 - Confirmar los Cambios (Commit)
 - Enviarlos al Repositorio en la Nube (Push)
 
-**- Ejercicio B: (10 Firmas)** Repositorio del Equipo Tl (Contacta al Líder del Equipo) 
+**Ejercicio B: (10 Firmas)** Repositorio del Equipo Tl (Contacta al Líder del Equipo) 
 
 *Actividades:*
 - Clonación del Repositorio
@@ -46,11 +46,11 @@
 |230350|Guzmán Barrera Abril|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230369|Ibarra Salgado Tania|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230365|Jimenez Castillo Jose Agustin|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230353|Leon Cabrera Brandon|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
 |230415|Lopez Neri Ana Daniela|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230166|Martinez Otero Josue Atlai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230768|Medina Torres Uriel Abdallah|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230308|Mendoza Marquez Brian Jesus|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
+|230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
 |230570|Negrete Hernández Karen Lizbeth|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230410|Ramírez Reyes Jonathan Baldemar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|

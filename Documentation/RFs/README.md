@@ -21,10 +21,10 @@ Propósito de los Requerimientos Funcionales
 >&nbsp;&nbsp;├── BRs <br>
 >&nbsp;&nbsp;**├── FRs** <br>
 >&nbsp;&nbsp;├── GUI <br>
->&nbsp;&nbsp;├── Instalation Manual <br>
+>&nbsp;&nbsp;├── Installation_Manual <br>
 >&nbsp;&nbsp;├── NFRs  <br>
 >&nbsp;&nbsp;├── UHs  <br>
->&nbsp;&nbsp;├── User Manual  <br>
+>&nbsp;&nbsp;├── User_Manual  <br>
 >├── FrontEnd   <br>
 
 
