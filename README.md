@@ -37,7 +37,7 @@
 |---|---|---|---|---|---|
 |220773|Artiaga Quiroga Ailton|Backend - PHP_Connection| ✅ 8/10| ❌ 0/10 - No entregada| No asistió|
 |230693|Balderas Gomez Dulce|Backend - PHP| 🤨 6/10| ✅ 8/10 | 🤨 6/10 |
-|230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** */ |
+|230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** |
 |230496|Cabrera Velázquez Edgar|Database - Backups|😴 0/10|😴 0/10 | No asistió |
 |230413|Flores Campos Osvaldo Abishai|Database - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
 |230315|Fosado Escudero Carlos Isaac|Database - Diagrams|😑 5/10|😴 0/10 |🤨3/10 |
@@ -45,7 +45,7 @@
 |230297|González Peralta Esther|Database - Scripts|✅ 10/10|😶 7/10 |😶 7/10|
 |230350|Guzmán Barrera Abril|Database - Triggers|😴 0/10|😴 0/10 | No asistió |
 |230369|Ibarra Salgado Tania|Database - USPs|🙄 8/10|😴 0/10 | No asistió |
-|230365|Jimenez Castillo Jose Agustin|Documentation - BRs| |😴 0/10|😴 0/10 | No asistió |
+|230365|Jimenez Castillo Jose Agustin|Documentation - BRs|😴 0/10|😴 0/10|😴 0/10 | No asistió |
 |230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
 |230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😴 0/10|😴 0/10 | No asistió |
 |230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |✅ 10/10|🙂 9/10 | 😶 7/10 |
