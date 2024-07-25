@@ -40,8 +40,8 @@
 |230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** */ |
 |230496|Cabrera Velázquez Edgar|Databases - Backups|😴 0/10|😴 0/10 | No asistió |
 |230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
-|230315|Fosado Escudero Carlos Isaac|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
-|230598|Galindo Gonzalez Lorena Citlalli|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230315|Fosado Escudero Carlos Isaac|Databases - Diagrams|😑 5/10|😴 0/10 |🤨3/10 |
+|230598|Galindo Gonzalez Lorena Citlalli|
 |230297|González Peralta Esther|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
 |230350|Guzmán Barrera Abril|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230369|Ibarra Salgado Tania|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
