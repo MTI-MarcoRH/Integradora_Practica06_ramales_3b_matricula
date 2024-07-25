@@ -48,16 +48,16 @@
 |230365|Jimenez Castillo Jose Agustin|Documentation - BRs| |😴 0/10|😴 0/10 | No asistió |
 |230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
 |230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😴 0/10|😴 0/10 | No asistió |
-|230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |😴 0/10|😴 0/10 | No asistió |
-|230768|Medina Torres Uriel Abdallah|Documentation - GUI - Site_Map |😴 0/10|😴 0/10 | No asistió |
+|230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |✅ 10/10|🙂 9/10 | 😶 7/10 |
+|230768|Medina Torres Uriel Abdallah|Documentation - GUI - Site_Map |😴 0/10|🙂 9/10 | No asistió |
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
 |230570|Negrete Hernández Karen Lizbeth|Documentation - GUI - Sketches|😴 0/10|😴 0/10 | No asistió |
 |230642|Ocpaco Dolores Antonio|Documentation - Installation_Manual|😴 0/10|😴 0/10 | No asistió |
 |230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
-|230733|Ríos Durán Marcos Jesús|Documentation - UHs|😴 0/10|😴 0/10 | No asistió |
-|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|😴 0/10 | No asistió |
+|230733|Ríos Durán Marcos Jesús|Documentation - UHs|😴 0/10|🙂 9/10 | No asistió |
+|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|🙂 9/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|😴 0/10|😴 0/10 | No asistió |
 |230374|Tecorralco Martinez Diego Salvador|Frontend - CSS|😴 0/10|😴 0/10 | No asistió |
 |230574|Vargas Galindo Guadalupe Idai|Frontend - HTML|😴 0/10|😴 0/10 | No asistió |
-|230196|Viveros Martinez Juvenal|Frontend - JS|😴 0/10|😴 0/10 | No asistió |
+|230196|Viveros Martinez Juvenal|Frontend - JS|😴 0/10| 😶 7/10 | No asistió |
 |230852|Zacatenco Pedroza Zyanya Ahuachtli|Database|😴 0/10|😴 0/10 | No asistió |
