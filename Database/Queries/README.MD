@@ -11,9 +11,8 @@ Nosotros utilizamos el lenguaje SQL, el lenguaje de consulta más conocido y uti
 
 ## Estructura de Archivos
 
->IntegradoraI - Tiat-Ind<br>
 >| - Backend <br>
->| - Database<br>
+>**| - Database**<br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- DataDictionary<br>
 >&nbsp;&nbsp;|- Diagramas<br>
@@ -28,8 +27,8 @@ Nosotros utilizamos el lenguaje SQL, el lenguaje de consulta más conocido y uti
 
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
-|MTI Marco Antonio Ramirez Hernandez|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo de Base de datos|✖ Aun no ha sido revisado |
-|Lorena Citlalli Galindo Gonzalez|[@Lore-Galindo](https://github.com/Lore-Galindo)|Desarrollador de Base de datos|✔ Revisado y aprobado|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado |
+|Lorena Citlalli Galindo Gonzalez|[@Lore-Galindo](https://github.com/Lore-Galindo)|Desarrollador de Base de datos|✅ Revisado y aprobado|
 
 
 
