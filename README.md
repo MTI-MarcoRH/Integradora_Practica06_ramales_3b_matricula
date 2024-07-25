@@ -42,7 +42,7 @@
 |230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
 |230315|Fosado Escudero Carlos Isaac|Databases - Diagrams|😑 5/10|😴 0/10 |🤨3/10 |
 |230598|Galindo Gonzalez Lorena Citlalli|
-|230297|González Peralta Esther|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
+|230297|González Peralta Esther|Databases - Scripts|✅ 10/10|😶 7/10 |😶 7/10|
 |230350|Guzmán Barrera Abril|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230369|Ibarra Salgado Tania|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230365|Jimenez Castillo Jose Agustin|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
@@ -53,7 +53,7 @@
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
 |230570|Negrete Hernández Karen Lizbeth|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230410|Ramírez Reyes Jonathan Baldemar|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 0/10|✅ 10/10 |✅ 10/10|
 |230733|Ríos Durán Marcos Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
 |230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|😴 0/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
