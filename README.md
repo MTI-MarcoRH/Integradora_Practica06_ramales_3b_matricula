@@ -38,26 +38,26 @@
 |220773|Artiaga Quiroga Ailton|Backend - PHP_Connection| ✅ 8/10| ❌ 0/10 - No entregada| No asistió|
 |230693|Balderas Gomez Dulce|Backend - PHP| 🤨 6/10| ✅ 8/10 | 🤨 6/10 |
 |230484|Becerra Gonzalez Edgar|**NO APLICA**| **N/A**| **N/A** | **N/A** */ |
-|230496|Cabrera Velázquez Edgar|Databases - Backups|😴 0/10|😴 0/10 | No asistió |
-|230413|Flores Campos Osvaldo Abishai|Databases - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
-|230315|Fosado Escudero Carlos Isaac|Databases - Diagrams|😑 5/10|😴 0/10 |🤨3/10 |
+|230496|Cabrera Velázquez Edgar|Database - Backups|😴 0/10|😴 0/10 | No asistió |
+|230413|Flores Campos Osvaldo Abishai|Database - Data_Dictionary|😴 0/10|😴 0/10 | No asistió |
+|230315|Fosado Escudero Carlos Isaac|Database - Diagrams|😑 5/10|😴 0/10 |🤨3/10 |
 |230598|Galindo Gonzalez Lorena Citlalli|
-|230297|González Peralta Esther|Databases - Scripts|✅ 10/10|😶 7/10 |😶 7/10|
-|230350|Guzmán Barrera Abril|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230369|Ibarra Salgado Tania|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230365|Jimenez Castillo Jose Agustin|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230297|González Peralta Esther|Database - Scripts|✅ 10/10|😶 7/10 |😶 7/10|
+|230350|Guzmán Barrera Abril|Database - Triggers|😴 0/10|😴 0/10 | No asistió |
+|230369|Ibarra Salgado Tania|Database - USPs|😴 0/10|😴 0/10 | No asistió |
+|230365|Jimenez Castillo Jose Agustin|Documentation - BRs| |😴 0/10|😴 0/10 | No asistió |
 |230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
-|230415|Lopez Neri Ana Daniela|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230166|Martinez Otero Josue Atlai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230768|Medina Torres Uriel Abdallah|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😴 0/10|😴 0/10 | No asistió |
+|230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |😴 0/10|😴 0/10 | No asistió |
+|230768|Medina Torres Uriel Abdallah|Documentation - GUI - Site_Map |😴 0/10|😴 0/10 | No asistió |
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
-|230570|Negrete Hernández Karen Lizbeth|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230570|Negrete Hernández Karen Lizbeth|Documentation - GUI - Sketches|😴 0/10|😴 0/10 | No asistió |
+|230642|Ocpaco Dolores Antonio|Documentation - Installation_Manual|😴 0/10|😴 0/10 | No asistió |
 |230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
-|230733|Ríos Durán Marcos Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
+|230733|Ríos Durán Marcos Jesús|Documentation - UHs|😴 0/10|😴 0/10 | No asistió |
 |230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|😴 0/10 | No asistió |
-|230499|Rufino Mendoza Ángel De Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230374|Tecorralco Martinez Diego Salvador|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230574|Vargas Galindo Guadalupe Idai|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
-|230196|Viveros Martinez Juvenal|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230852|Zacatenco Pedroza Zyanya Ahuachtli|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
+|230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|😴 0/10|😴 0/10 | No asistió |
+|230374|Tecorralco Martinez Diego Salvador|Frontend - CSS|😴 0/10|😴 0/10 | No asistió |
+|230574|Vargas Galindo Guadalupe Idai|Frontend - HTML|😴 0/10|😴 0/10 | No asistió |
+|230196|Viveros Martinez Juvenal|Frontend - JS|😴 0/10|😴 0/10 | No asistió |
+|230852|Zacatenco Pedroza Zyanya Ahuachtli|Datbase|😴 0/10|😴 0/10 | No asistió |
