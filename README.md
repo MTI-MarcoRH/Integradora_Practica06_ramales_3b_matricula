@@ -53,7 +53,7 @@
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
 |230570|Negrete Hernández Karen Lizbeth|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
 |230642|Ocpaco Dolores Antonio|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
-|230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 0/10|✅ 10/10 |✅ 10/10|
+|230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
 |230733|Ríos Durán Marcos Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|	
 |230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|😴 0/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|<span style="color:red"> No entregada </span>|<span style="color:red"> No entregada </span>|
