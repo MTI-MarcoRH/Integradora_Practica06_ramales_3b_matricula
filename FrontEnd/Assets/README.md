@@ -1,17 +1,16 @@
-# ASSETS
+# Assets
 
 En esta sección se encuentran todos los recursos multimedia y archivos estáticos utilizados en la aplicación. Los assets incluyen imágenes, fuentes, íconos, y otros archivos que son necesarios para la correcta visualización y funcionamiento del frontend.
 
 ## Estructura de Archivos
-
-├── BackEnd/<br>
-├── Database<br>
-├── Documentation<br> 
-**└── FrontEnd** <br>
-**│ └── Assets**<br>
-│ └── CSS <br>
-│ └── HTML <br>
-│ └── JS <br>
+>| - Backend <br>
+>| - Database<br>
+>| - Documentation<br>
+>**| - Frontend**<br>
+>&nbsp;&nbsp;**| - Assets**<br>
+>&nbsp;&nbsp;| - CSS<br>
+>&nbsp;&nbsp;| - HTML<br>
+>&nbsp;&nbsp;| - JS<br>
 
 
 ## Equipo de Desarollo

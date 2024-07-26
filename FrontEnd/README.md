@@ -5,10 +5,11 @@ En esta sección se ubicarpá  código fuente de los componentes programables qu
 
 ## Estructura de Archivos
 
->|- Backend <br>
->|- Database<br>
->|- Documentation<br>
->**|- Frontend**<br>
+>| - Backend <br>
+>| - Database<br>
+>| - Documentation<br>
+>**| - Frontend**<br>
+>&nbsp;&nbsp;| - Assets<br>
 >&nbsp;&nbsp;| - CSS<br>
 >&nbsp;&nbsp;| - HTML<br>
 >&nbsp;&nbsp;| - JS<br>
