@@ -5,8 +5,7 @@ En esta sección se encontrarán todos los archivos de código fuente para cada 
 
 ## Estructura de archivos
 
->Integradora-Asesoria <br>
->| - Backend <br>
+>**| - Backend** <br>
 >&nbsp;&nbsp;| - DB_Connection <br>
 >&nbsp;&nbsp;**| - PHP** <br>
 >| - Database <br>
@@ -17,5 +16,5 @@ En esta sección se encontrarán todos los archivos de código fuente para cada 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
-|M.T.I. Marco Antonio Ramirez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Lider de Desarrollo de PHP|✅ Corregido, muchos errores previos |
-|Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Desarrolladora de PHP|✅ Revisado y aprobado|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado |
+|Dulce Balderas Gomez|[@DulceBal](https://github.com/DulceBal)|Desarrolladora de Backend|✅ Revisado y Aprobado|

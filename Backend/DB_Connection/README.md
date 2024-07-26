@@ -5,17 +5,17 @@ En este apartado bd_connection se encarga en nuestra aplicacion conectar toda la
 
 ## Estructura de Archivos
 
->| - Backend <br>
+>**| - Backend** <br>
 >&nbsp;&nbsp;**|- BD_Connection**<br>
 >&nbsp;&nbsp;|- PHP<br>
 >| - Database<br>
 >| - Documentation<br>
->| - FrontEnd
+>| - Frontend
 
 
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)| Líder del Proyecto| ✅ Revisado aprobado con correcciones.|
-|Ailton Artiaga Quiroga|[@ArtQuir29](https://github.com/ArtQuir29)|Colaborador|✅ Revisado y aprobado.|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)| Líder del Proyecto| ✅ Revisado y Aprobado|
+|Ailton Artiaga Quiroga|[@ArtQuir29](https://github.com/ArtQuir29)|Desarrollador Backend|✅ Revisado y Aprobado|
