@@ -1,4 +1,4 @@
-# User Manual ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# Manual de Usuario (User Manual) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 En este folder encontraremos los archivos que serviran de guía al usuario para poder usuar adecuadamente la aplicación de manera intuitiva.
 
@@ -24,5 +24,5 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado con cambios mínimos.|
-|Yáred Amaury Romero Martínez|[@Yared-Amaury-Romero](https://github.com/AmauryRomero1285)|Documentador|✅Revisado y aprobado. ✔|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado|
+|Yáred Amaury Romero Martínez|[@Yared-Amaury-Romero](https://github.com/AmauryRomero1285)|Documentador|✅Revisado y aprobado|

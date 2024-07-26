@@ -56,7 +56,7 @@
 |230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
 |230733|Ríos Durán Marcos Jesús|Documentation - UHs|✅ 10/10|🙂 9/10 | No asistió |
 |230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|🙂 9/10 | No asistió |
-|230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|✅ 10/10|❌ 0/10 - No entregada|🙂 9/10 |
+|230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|✅ 10/10|🙂 9/10|🙂 9/10 |
 |230374|Tecorralco Martinez Diego Salvador|Frontend - HTML|❌ 0/10 - No entregada|🙂 9/10 | No asistió |
 |230574|Vargas Galindo Guadalupe Idai|Frontend - CSS|🙄 8/10|✅ 10/10 | ✅ 10/10|
 |230196|Viveros Martinez Juvenal|Frontend - JS|❌ 0/10 - No entregada| 😶 7/10 | 😑 2/10|
