@@ -58,6 +58,6 @@
 |230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|🙂 9/10 | No asistió |
 |230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|✅ 10/10|😴 0/10 | No asistió |
 |230374|Tecorralco Martinez Diego Salvador|Frontend - CSS|😴 0/10|😴 0/10 | No asistió |
-|230574|Vargas Galindo Guadalupe Idai|Frontend - HTML|😴 0/10|😴 0/10 | No asistió |
+|230574|Vargas Galindo Guadalupe Idai|Frontend - HTML|🙄 8/10|✅ 10/10 | ✅ 10/10|
 |230196|Viveros Martinez Juvenal|Frontend - JS|😴 0/10| 😶 7/10 | No asistió |
 |230852|Zacatenco Pedroza Zyanya Ahuachtli|Database|😴 0/10|😴 0/10 | No asistió |
