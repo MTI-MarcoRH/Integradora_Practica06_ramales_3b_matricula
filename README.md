@@ -45,7 +45,7 @@
 |230297|González Peralta Esther|Database - Scripts|✅ 10/10|😶 7/10 |😶 7/10|
 |230350|Guzmán Barrera Abril|Database - Triggers|🙄 8/10|😴 0/10 | No asistió |
 |230369|Ibarra Salgado Tania|Database - USPs|🙄 8/10|😴 0/10 | No asistió |
-|230365|Jimenez Castillo Jose Agustin|Documentation - BRs|😴 0/10|😴 0/10|😴 0/10 | No asistió |
+|230365|Jimenez Castillo Jose Agustin|Documentation - BRs|😣 4/10|😴 0/10|😴 0/10 | No asistió |
 |230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
 |230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😴 0/10|😴 0/10 | No asistió |
 |230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |✅ 10/10|🙂 9/10 | 😶 7/10 |
