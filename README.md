@@ -47,7 +47,7 @@
 |230369|Ibarra Salgado Tania|Database - USPs|🙄 8/10|😴 0/10 | No asistió |
 |230365|Jimenez Castillo Jose Agustin|Documentation - BRs|😣 4/10|😴 0/10|😴 0/10 | No asistió |
 |230353|Leon Cabrera Brandon|Documentation - FRs|✅ 10/10 |😴 0/10 |🤨 3/10|
-|230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😴 0/10|😴 0/10 | No asistió |
+|230415|Lopez Neri Ana Daniela|Documentation - GUI - Mockups |😶 7/10|😴 0/10 | No asistió |
 |230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |✅ 10/10|🙂 9/10 | 😶 7/10 |
 |230768|Medina Torres Uriel Abdallah|Documentation - GUI - SiteMap |😶 7/10|🙂 9/10 | No asistió |
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
