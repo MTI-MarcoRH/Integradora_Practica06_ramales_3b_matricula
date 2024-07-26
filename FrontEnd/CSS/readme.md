@@ -1,18 +1,21 @@
-## **CSS**
+## CSS 
+
 En esta sección se encontrarán los codigos de estilo CSS para la configuración de HTML
 
-## **ESTRUCTURA DE ARCHIVOS**
-Integradora-HOPE/<br>
+## Estructura de Archivos
+
 ├── BackEnd/<br>
 ├── Database<br>
-├── FrontEnd <br>
+├──Documentation<br>
+**└──FrontEnd** <br>
 │ └── Assets<br>
-│ └── CSS <br>
+**│ └── CSS** <br>
 │ └── HTML <br>
 │ └── JS <br>
-└── Documentation <br>
 
-| Responsable | Puesto | Contacto | Observaciones |
+## Equipo de Desarrollo 
+
+| Integrante | Rol | Contacto | Observaciones |
 |-------------|--------|----------|---------------|
-|Marco Antonio Ramirez Marquez|@MTI-Marco|Líder de desarrollo FrontEnd|✅ Revisado y aprobado.|
-|Guadalupe Idai Vargas Galindo|@IdaiVG|Desarrollador FrontEnd|❌Sin revisión..|
+|M.T.I. Marco Antonio Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado.|
+|Guadalupe Idai Vargas Galindo|[@IdaiVG](https://github.com/IdaiVG)|Desarrollador FrontEnd|✅ Revisado y Aprobado|
