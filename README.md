@@ -59,5 +59,5 @@
 |230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|✅ 10/10|❌ 0/10 - No entregada|🙂 9/10 |
 |230374|Tecorralco Martinez Diego Salvador|Frontend - HTML|❌ 0/10 - No entregada|🙂 9/10 | No asistió |
 |230574|Vargas Galindo Guadalupe Idai|Frontend - CSS|🙄 8/10|✅ 10/10 | ✅ 10/10|
-|230196|Viveros Martinez Juvenal|Frontend - JS|❌ 0/10 - No entregada| 😶 7/10 | No asistió |
+|230196|Viveros Martinez Juvenal|Frontend - JS|❌ 0/10 - No entregada| 😶 7/10 | 😑 2/10|
 |230852|Zacatenco Pedroza Zyanya Ahuachtli|Database|✅ 10/10|❌ 0/10 - No entregada|😣 5/10 |

@@ -7,9 +7,9 @@ En esta sección se encontrarán todos los archivos de código fuente para cada 
 
 >Integradora-Asesoria <br>
 >| - Backend <br>
->&nbsp;&nbsp;| - DB Connection <br>
+>&nbsp;&nbsp;| - DB_Connection <br>
 >&nbsp;&nbsp;**| - PHP** <br>
->| - Databases <br>
+>| - Database <br>
 >| - Documentation <br>
 >| - Frontend 
 
