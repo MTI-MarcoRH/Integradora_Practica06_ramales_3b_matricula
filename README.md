@@ -51,7 +51,7 @@
 |230166|Martinez Otero Josue Atlai| Documentation - GUI - Prototype |✅ 10/10|🙂 9/10 | 😶 7/10 |
 |230768|Medina Torres Uriel Abdallah|Documentation - GUI - SiteMap |😶 7/10|🙂 9/10 | No asistió |
 |230308|Mendoza Marquez Brian Jesus|Documentation - GUI - Sketches|😴 0/10|😴 0/10 |No asistió|
-|230570|Negrete Hernández Karen Lizbeth|Documentation - GUI - Sketches|😴 0/10|😴 0/10 | No asistió |
+|230570|Negrete Hernández Karen Lizbeth|Documentation - GUI - Sketches|✅ 10/10|😴 0/10 | No asistió |
 |230642|Ocpaco Dolores Antonio|Documentation - Installation_Manual|😴 0/10|😴 0/10 | No asistió |
 |230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
 |230733|Ríos Durán Marcos Jesús|Documentation - UHs|✅ 10/10|🙂 9/10 | No asistió |
