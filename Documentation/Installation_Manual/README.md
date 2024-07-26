@@ -6,8 +6,8 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 
 ## Estructura de Archivos
 
->|- BackEnd <br>
->|- DataBase<br>
+>|- Backend <br>
+>|- Database<br>
 >|**- Documentation**<br>
 >&nbsp;&nbsp;| - BRs<br>
 >&nbsp;&nbsp;| - FRs<br>
@@ -16,7 +16,7 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 >&nbsp;&nbsp;| - NFRs<br>
 >&nbsp;&nbsp;| - UHs<br>
 >&nbsp;&nbsp;| - User_Manual<br>
->|- FronteEnd<br>
+>|- Frontend<br>
 
 
 ## Equipo de Desarrollo

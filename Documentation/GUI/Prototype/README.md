@@ -9,7 +9,7 @@ En este folder encontraremos los prototipos, es decir, versiones preliminares o 
 >|- Documentation<br>
 >&nbsp;&nbsp;| - BRs<br>
 >&nbsp;&nbsp;| - FRs<br>
->&nbsp;&nbsp;| **- GUI**<br>
+>&nbsp;&nbsp;**| - GUI**<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Mockups <br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| **- Prototype**<br>
 >&nbsp;&nbsp;&nbsp;&nbsp;| - Site_Map <br>

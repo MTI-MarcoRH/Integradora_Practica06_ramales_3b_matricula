@@ -15,17 +15,17 @@ Propósito de los Requerimientos Funcionales
 
 ## Estructura de Archivos
 
->├── BackEnd <br>
->├── Database <br>
->├── Documentation <br>
->&nbsp;&nbsp;├── BRs <br>
->&nbsp;&nbsp;**├── FRs** <br>
->&nbsp;&nbsp;├── GUI <br>
->&nbsp;&nbsp;├── Installation_Manual <br>
->&nbsp;&nbsp;├── NFRs  <br>
->&nbsp;&nbsp;├── UHs  <br>
->&nbsp;&nbsp;├── User_Manual  <br>
->├── FrontEnd   <br>
+>|- Backend <br>
+>|- Database<br>
+>|**- Documentation**<br>
+>&nbsp;&nbsp;| - BRs<br>
+>&nbsp;&nbsp;| - FRs<br>
+>&nbsp;&nbsp;| - GUI<br>
+>&nbsp;&nbsp;| - Installation_Manual<br>
+>&nbsp;&nbsp;| - NFRs<br>
+>&nbsp;&nbsp;| - UHs<br>
+>&nbsp;&nbsp;| - User_Manual<br>
+>|- Frontend<br>
 
 
 ## Equipo de Desarrollo

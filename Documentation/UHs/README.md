@@ -10,22 +10,18 @@ En este apartado encontras un ejemplo de historias de usuario, para crear las **
 
 ## Estructura de Archivos
 
->├── BackEnd <br>
->├── Database <br>
->├── Documentation <br>
->│ ├── BRs <br>
->│ ├── FRs <br>
->│ ├── GUI <br>
->│ │ ├── Mockups <br>
->│ │ ├── Prototype  <br>
->│ │ ├── SiteMap <br>
->│ │ ├── Sketches <br>
->│ │ ├── Wireframes <br>
->│ ├── Instalation Manual <br>
->│ ├── NFRs  <br>
->**│ ├── UHs**  <br>
->│ ├── User Manual  <br>
->├── FrontEnd   <br>
+>|- Backend <br>
+>|- Database<br>
+>|**- Documentation**<br>
+>&nbsp;&nbsp;| - BRs<br>
+>&nbsp;&nbsp;| - FRs<br>
+>&nbsp;&nbsp;| - GUI<br>
+>&nbsp;&nbsp;| - Installation_Manual<br>
+>&nbsp;&nbsp;| - NFRs<br>
+>&nbsp;&nbsp;**| - UHs**<br>
+>&nbsp;&nbsp;| - User_Manual<br>
+>|- Frontend<br>
+
 
 
 ## Equipo de Desarrollo
