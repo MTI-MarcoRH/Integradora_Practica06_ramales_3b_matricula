@@ -55,7 +55,7 @@
 |230642|Ocpaco Dolores Antonio|Documentation - Installation_Manual|❌ 0/10 - No entregada|❌ 0/10 - No entregada| No asistió |
 |230410|Ramírez Reyes Jonathan Baldemar|Documentation - NFRs|✅ 10/10|✅ 10/10 |✅ 10/10|
 |230733|Ríos Durán Marcos Jesús|Documentation - UHs|✅ 10/10|🙂 9/10 | No asistió |
-|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|🙂 9/10 | No asistió |
+|230190|Romero Martínez Yáred Amaury|Documentation - User_Manual|✅ 10/10|🙂 9/10 |🙄 8/10|
 |230499|Rufino Mendoza Ángel De Jesús|Frontend - Assets|✅ 10/10|🙂 9/10|🙂 9/10 |
 |230374|Tecorralco Martinez Diego Salvador|Frontend - HTML|❌ 0/10 - No entregada|🙂 9/10 | No asistió |
 |230574|Vargas Galindo Guadalupe Idai|Frontend - CSS|🙄 8/10|✅ 10/10 | ✅ 10/10|
