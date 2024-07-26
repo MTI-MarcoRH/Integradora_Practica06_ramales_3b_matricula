@@ -24,4 +24,4 @@ En este folder encontraremos los archivos que serviran de guía al usuario para 
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
 |M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado|
-|Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Documentador|✅Revisado y aprobado|
+|Antonio Ocpaco Dolores|[@ANTONIOOCPACODOLORES](https://github.com/ANTONIOOCPACODOLORES)|Documentador|❌ Actividad No entregada|
