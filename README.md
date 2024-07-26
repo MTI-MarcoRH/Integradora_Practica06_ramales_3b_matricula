@@ -41,7 +41,7 @@
 |230496|Cabrera Velázquez Edgar|Database - Backups|❌ 0/10 - No entregada |🙂 9/10| No asistió |
 |230413|Flores Campos Osvaldo Abishai|Database - Data_Dictionary|❌ 0/10 - No entregada|❌ 0/10 - No entregada | 😒 6/10|
 |230315|Fosado Escudero Carlos Isaac|Database - Diagrams|😑 5/10|❌ 0/10 - No entregada🤨3/10 |
-|230598|Galindo Gonzalez Lorena Citlalli|Database - Queries|✅ 10/10|❌ 0/10 - No entregada|😶 6/10 |
+|230598|Galindo Gonzalez Lorena Citlalli|Database - Queries|✅ 10/10|😥 6/10|😶 6/10 |
 |230297|González Peralta Esther|Database - Scripts|✅ 10/10|😶 7/10 |😥 6/10|
 |230350|Guzmán Barrera Abril|Database - Triggers|🙄 8/10|🙂 9/10 | No asistió |
 |230369|Ibarra Salgado Tania|Database - USPs|🙄 8/10|🙂 9/10 - No entregada |🙂 9/10 |

@@ -1,17 +1,18 @@
-## CSS 
+## CSS ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 En esta sección se encontrarán los codigos de estilo CSS para la configuración de HTML
 
 ## Estructura de Archivos
 
-├── BackEnd/<br>
-├── Database<br>
-├──Documentation<br>
-**└──FrontEnd** <br>
-│ └── Assets<br>
-**│ └── CSS** <br>
-│ └── HTML <br>
-│ └── JS <br>
+>|- BackEnd <br>
+>|- DataBase<br>
+>|- Documentation<br>
+>|- FronteEnd<br>
+>&nbsp;&nbsp;**| - CSS**<br>
+>&nbsp;&nbsp;| - HTML<br>
+>&nbsp;&nbsp;| - JS<br>
+
 
 ## Equipo de Desarrollo 
 
