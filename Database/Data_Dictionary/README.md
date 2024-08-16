@@ -1,6 +1,6 @@
 # Database ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-En esta sección se encontrará el diccionario de datos de la base de datos, punto de referencia para entender el modelo de la base de datos de manera detallada.
+En esta sección, se presenta el diccionario de datos de la base de datos, que actúa como una guía esencial para comprender el modelo de la base de datos en profundidad. Este diccionario proporciona una descripción detallada de cada tabla, columna, tipo de dato, restricciones, y relaciones entre las diferentes entidades.
 
 ## Estructura de Archivos
 
@@ -20,5 +20,5 @@ En esta sección se encontrará el diccionario de datos de la base de datos, pun
 
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|✅ Revisado y Aprobado|
-|Osvaldo Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Desarrollador de Bases de Datos|❌ Actividad No entregada|
+|Osvaldo Abishai Flores Campos|[@AbishaiFC](https://github.com/AbishaiFC)|Desarrollador de Bases de Datos|✅ Revisado y Aprobado|
+|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder del Proyecto|👷‍♂️ En progreso|
